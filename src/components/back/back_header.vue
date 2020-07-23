@@ -37,7 +37,7 @@
 		},
 		methods: {
 			goGithub() {
-				window.open('https://github.com/Jennifer249/blog');
+				window.open('https://github.com/x649615715/new-vue-blog');
 			},
 			handleShowDialog() {
 				this.$refs.dialog.show = true;

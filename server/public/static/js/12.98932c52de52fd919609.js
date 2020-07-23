@@ -124,7 +124,7 @@ back_headervue_type_template_id_89547566_scoped_true_render._withStripped = true
   },
   methods: {
     goGithub: function goGithub() {
-      window.open('https://github.com/Jennifer249/blog');
+      window.open('https://github.com/x649615715/new-vue-blog');
     },
     handleShowDialog: function handleShowDialog() {
       this.$refs.dialog.show = true;
@@ -363,4 +363,4 @@ admin_component.options.__file = "src/views/back/admin.vue"
 /***/ })
 
 }]);
-//# sourceMappingURL=12.5797c1d3e70c0f972a3b.js.map
+//# sourceMappingURL=12.98932c52de52fd919609.js.map
