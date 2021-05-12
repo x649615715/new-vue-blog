@@ -4978,9 +4978,9 @@ node-releases@^1.1.58:
   integrity sha1-TWSDMGQc7HBL/xD45P4o5FOrjo4=
 
 nodemailer@^6.4.10:
-  version "6.4.10"
-  resolved "https://registry.npm.taobao.org/nodemailer/download/nodemailer-6.4.10.tgz#f4c8dc7991c57f41fd081bef224ef01f7065143d"
-  integrity sha1-9MjceZHFf0H9CBvvIk7wH3BlFD0=
+  version "6.4.16"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.4.16.tgz#5cb6391b1d79ab7eff32d6f9f48366b5a7117293"
+  integrity sha512-68K0LgZ6hmZ7PVmwL78gzNdjpj5viqBdFqKrTtr9bZbJYj6BRj5W6WGkxXrEnUl3Co3CBXi3CZBUlpV/foGnOQ==
 
 normalize-path@^2.1.1:
   version "2.1.1"
